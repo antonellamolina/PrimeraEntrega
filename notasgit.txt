@@ -1,0 +1,10 @@
+Notas git
+------------
+
+git init // crear un repositorio // 
+git status // el estado de tus archivos de tu repositorio
+git add // Es para agregar los archivos que queres commitear
+git commit -m "Descripcion" // para guardar tu codigo en el tiempo
+git push origin // para subir a la nube
+git pull origin
+
